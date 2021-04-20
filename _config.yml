@@ -12,6 +12,7 @@ tagline:          'Reality Media'
 description:      'The digital complement to Reality Media (MIT Press 2021)'
 url:              http://hyde.getpoole.com
 baseurl:          /
+remote_theme:     poole/hyde
 
 author:
   name:           'Mark Otto'
@@ -24,3 +25,5 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+
