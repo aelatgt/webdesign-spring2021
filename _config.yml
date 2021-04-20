@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -12,7 +12,6 @@ tagline:          'Reality Media'
 description:      'The digital complement to Reality Media (MIT Press 2021)'
 url:              http://hyde.getpoole.com
 baseurl:          /
-remote_theme:     poole/hyde
 
 author:
   name:           'Mark Otto'
